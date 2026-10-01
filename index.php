@@ -6,7 +6,7 @@
 
     <meta charset="UTF-8">
 
-    <title>ESP-SWITCH7</title>
+    <title>ESP-SWITCH8</title>
 
     <style>
 
