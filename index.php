@@ -59,15 +59,15 @@
 
 <div class="container">
 
-    <h1>ESP-SWITCH7</h1>
+    <h1>ESP-SWITCH8</h1>
 
     <p>ESP8266 Weekly Schedule Control</p>
 
-    <a href="schedule.php">
+    <a href="schedule_remote.php">
         Schedule Management
     </a>
 
-    <a href="display_schedule.php">
+    <a href="display_schedule_remote.php">
         Display Schedule
     </a>
 
