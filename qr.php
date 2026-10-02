@@ -5,9 +5,9 @@
 // ESP-SWITCH7
 // ----------------------------------------
 
-$base_url = "https://esp-switch8.onrender.com";
+$base_url = "https://esp-switch8_remote.onrender.com";
 
-$display_url = $base_url . "/display-schedule-remote";
+$display_url = $base_url . "/display_schedule_remote.php";
 
 $qr_url =
     "https://api.qrserver.com/v1/create-qr-code/"
