@@ -5,7 +5,7 @@
 // ESP-SWITCH7
 // ----------------------------------------
 
-$base_url = "https://esp-switch8_remote.onrender.com";
+$base_url = "https://esp-switch8-remote.onrender.com";
 
 $display_url = $base_url . "/display_schedule_remote.php";
 
